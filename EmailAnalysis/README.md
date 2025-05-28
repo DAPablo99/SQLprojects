@@ -1,0 +1,2 @@
+The task involved calculating the percentage of emails sent to each account relative to the total number of emails sent across all accounts within each month (i.e., the count of emails sent to a specific account in a month divided by the total emails sent in that month). 
+Additionally, the dates of the first and last email sent for each account in each month were determined. This analysis provided a clear overview of each account's email activity distribution and timeline on a monthly basis.
